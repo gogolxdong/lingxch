@@ -1,0 +1,11 @@
+{
+    "authentication_token_timeout": 5,
+    "description": "xch pool reinforced by distributed storage technique lingx",
+    "fee": "0.0",
+    "logo_url": "https://xchpool.org/wp-content/uploads/XCHPool.png",
+    "minimum_difficulty": 1,
+    "name": "lingxch",
+    "protocol_version": 1,
+    "relative_lock_height": 100,
+    "target_puzzle_hash": "0xf44fe0789562bfcf4915e0d0eea1c61cb75cee537ed392c2f371a86a8df9123f"
+}
